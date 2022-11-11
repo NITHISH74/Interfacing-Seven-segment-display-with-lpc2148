@@ -1,8 +1,11 @@
-# Interfacing-Seven-segment-display-with-lpc2148
+# Ex.no.:08 --Interfacing-Seven-segment-display-with-lpc2148
 
 Name:	NITHISHWAR S
+
+
 Roll no: 212221230071 
-Ex. No. :08
+
+
 Date: 10/11/2022
  
 
