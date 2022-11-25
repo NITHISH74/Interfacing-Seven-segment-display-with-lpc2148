@@ -1,14 +1,4 @@
 # Ex.no.:08 --Interfacing-Seven-segment-display-with-lpc2148
-
-Name:	NITHISHWAR S
-
-
-Roll no: 212221230071 
-
-
-Date: 10/11/2022
- 
-
 ## Aim: 
 To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F.
 ## Components required: 
